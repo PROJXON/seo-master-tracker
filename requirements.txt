@@ -1,0 +1,8 @@
+gspread
+pandas
+requests
+google-api-python-client
+google-analytics-data
+google-auth-oauthlib
+beautifulsoup4
+cloudscraper
